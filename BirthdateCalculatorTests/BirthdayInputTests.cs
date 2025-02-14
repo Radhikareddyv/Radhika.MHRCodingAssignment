@@ -2,7 +2,7 @@ using BirthdateCalculator;
 
 namespace BirthdateCalculatorTests
 {
-    public class Tests
+    public class BirthdayInputTests
     {
         private BirthdayInput _birthdayInput;
         [SetUp]
