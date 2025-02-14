@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdateCalculatorTests", "BirthdateCalculatorTests\BirthdateCalculatorTests.csproj", "{0C35CF9B-76C9-43D8-AD97-3907306478EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdateCalculator", "BirthdateCalculator\BirthdateCalculator.csproj", "{461D650F-751E-4B31-AE8A-68F3D7868F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C35CF9B-76C9-43D8-AD97-3907306478EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C35CF9B-76C9-43D8-AD97-3907306478EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C35CF9B-76C9-43D8-AD97-3907306478EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C35CF9B-76C9-43D8-AD97-3907306478EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461D650F-751E-4B31-AE8A-68F3D7868F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461D650F-751E-4B31-AE8A-68F3D7868F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461D650F-751E-4B31-AE8A-68F3D7868F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461D650F-751E-4B31-AE8A-68F3D7868F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
